@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">app write 2</string>
+    <string name="subscribe_to_products">Subscribe to products</string>
+    <string name="product_image">product image</string>
+    <string name="get_data">Get Data</string>
+</resources>
